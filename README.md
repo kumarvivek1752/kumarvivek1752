@@ -26,7 +26,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kumarvivek1752"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kumarvivek1752" /></a></p><br><br><br><br><br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarvivek1752&show_icons=true&locale=en&layout=compact" alt="kumarvivek1752" /></p>
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=kumarvivek1752&show_icons=true&locale=en" alt="kumarvivek1752" /></p>
-</div>
+
+# Stats and Other
+
+![Kumarvivek1752's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarvivek1752&show_icons=true&theme=monokai)
+![Stats1](https://github-readme-streak-stats.herokuapp.com/?user=kumarvivek1752&theme=dark)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvivek1752&layout=compact&langs_count=100&theme=dracula)
 
